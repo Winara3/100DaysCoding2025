@@ -10,7 +10,7 @@ public class main {
         System.out.println("Nama awal: " + nama);
 
         // Update nilai variabel
-        nama = "anggun";
+        nama = "winara anggun";
         System.out.println("Nama setelah update: " + nama);
 
         // Update lagi
