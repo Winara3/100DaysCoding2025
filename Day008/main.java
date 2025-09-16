@@ -6,7 +6,7 @@ public class main {
         
         System.out.println(nama);
         System.out.println(usia);
-        System.out.println(pavfood );
+        System.out.println(pavfood);
     }
     
 }
