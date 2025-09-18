@@ -1,4 +1,4 @@
-package Day09;
+package Day009;
 public class main {
     public static void main(String[] args) {
         //Deklarasi variable string
