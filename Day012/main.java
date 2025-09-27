@@ -35,6 +35,8 @@
         System.out.println("Golongan darah : "+GolonganDarah);
         System.out.println("Status Mahasiswa: " + Status);
         
+
+        
     }
 
     }
