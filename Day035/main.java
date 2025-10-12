@@ -1,0 +1,19 @@
+ import java.util.Scanner;
+ public class main {
+    public static void main(String[] args) {
+        Scanner w = new Scanner (System.in);
+
+        System.out.print("Masukkan nilai: ");
+        int nilai = w.nextInt();
+
+        if (nilai >= 80) {
+            System.out.println("A");
+        } else if (nilai >= 70  && nilai < 80) {
+            System.out.println("B");
+        } else if (nilai >= 50  && nilai < 70) {
+            System.out.println("C");
+        } else {
+            System.out.println("ERROR");
+        } 
+    }
+}
