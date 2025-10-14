@@ -7,6 +7,7 @@ public class main {
         int harga = w.nextInt();
 
         if (harga >= 200000) {
+            System.out.println("Tas ini termasuk mahal!");
         if (harga >= 500000) {
             System.out.println("tas ini tergolong mewah dan mahal!");
          } else {
