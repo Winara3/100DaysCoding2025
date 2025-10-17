@@ -28,7 +28,7 @@ public class main {
     if (b == 0) {
       System.out.println("Error: pembagian dengan 0");
     } else {
-      System.out.printf("%.2f", (float) a / b); {
+      System.out.printf("%.2f", (float) a/b); {
        
     }
     }
