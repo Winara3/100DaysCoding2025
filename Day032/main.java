@@ -10,7 +10,7 @@ public static void main(String[] args) {
     boolean viv = w.nextBoolean();
 
     boolean izin = tiket || viv;
-    System.out.println("Kamu memenuhi salah satu syarat untuk masuk: " + izin);
+    System.out.println("Kamu memenuhi salah satu syarat untuk masuk: "   + izin);
 }
     
 }
