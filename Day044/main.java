@@ -3,7 +3,7 @@ public class main {
  public static void main(String[] args) {
     Scanner w = new Scanner (System.in);
 
-    System.out.println("Masukkan nilai: ");
+    System.out.print("Masukkan nilai: ");
     int nilai = w.nextInt();
 
     if (nilai >= 90 && nilai <= 100) {
